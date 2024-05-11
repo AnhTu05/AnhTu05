@@ -109,5 +109,3 @@ I am a student at Da Nang University of Information Technology, majoring in Comp
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
