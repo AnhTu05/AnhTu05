@@ -27,13 +27,13 @@ I am a student at Da Nang University of Information Technology, majoring in Comp
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [DACS](https://github.com/DinhDuong1610/DACS1)  
+- 🔭 I’m currently working on [VietNam Journey](https://github.com/letrungviet2005/VietNamJourney)   
   
 
 - 🌱 I’m currently learning Web Development and Java Programming  
   
 
-- ❓ Ask me about anything related to Java, HTML, CSS, JS, Bootstrap  
+- ❓ Ask me about anything related to Java, HTML, CSS, JS, Bootstrap, Figma  
   
 
 - ⚡ Fun fact: I like to work at night  
